@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Ns9H0i1nuzsa352xeo9jOqiz3C7zRQRrU+ksz7pbAGWviX8IRCq4qD1bBs5y5fUrJ3b3DwGI3h91aWVaSj7Nw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kouichi\\Documents\\GitHub\\ARDiscard\\ARDiscard\\ARDiscard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kouichi\\.nuget\\packages\\dalamud.contextmenu\\1.3.1\\dalamud.contextmenu.1.3.1.nupkg.sha512",
+    "C:\\Users\\Kouichi\\.nuget\\packages\\dalamudpackager\\2.1.12\\dalamudpackager.2.1.12.nupkg.sha512",
+    "C:\\Users\\Kouichi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Kouichi\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Kouichi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
