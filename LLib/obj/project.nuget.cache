@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kvCLbcpUu5KbQPfBt8iSUFAgPYt8pFPO9W/tg8xbCnEVN744UCs33rXswCOJy5FJuWV/q/Z3DvykcBvFQvuO5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kouichi\\Documents\\GitHub\\ARDiscard\\LLib\\LLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kouichi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Kouichi\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Kouichi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

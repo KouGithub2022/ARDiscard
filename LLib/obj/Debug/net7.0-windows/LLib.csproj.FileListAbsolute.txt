@@ -1,0 +1,12 @@
+C:\Users\Kouichi\Documents\GitHub\ARDiscard\LLib\bin\Debug\net7.0-windows\LLib.deps.json
+C:\Users\Kouichi\Documents\GitHub\ARDiscard\LLib\bin\Debug\net7.0-windows\LLib.dll
+C:\Users\Kouichi\Documents\GitHub\ARDiscard\LLib\bin\Debug\net7.0-windows\LLib.pdb
+C:\Users\Kouichi\Documents\GitHub\ARDiscard\LLib\obj\Debug\net7.0-windows\LLib.csproj.AssemblyReference.cache
+C:\Users\Kouichi\Documents\GitHub\ARDiscard\LLib\obj\Debug\net7.0-windows\LLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kouichi\Documents\GitHub\ARDiscard\LLib\obj\Debug\net7.0-windows\LLib.AssemblyInfoInputs.cache
+C:\Users\Kouichi\Documents\GitHub\ARDiscard\LLib\obj\Debug\net7.0-windows\LLib.AssemblyInfo.cs
+C:\Users\Kouichi\Documents\GitHub\ARDiscard\LLib\obj\Debug\net7.0-windows\LLib.csproj.CoreCompileInputs.cache
+C:\Users\Kouichi\Documents\GitHub\ARDiscard\LLib\obj\Debug\net7.0-windows\LLib.dll
+C:\Users\Kouichi\Documents\GitHub\ARDiscard\LLib\obj\Debug\net7.0-windows\refint\LLib.dll
+C:\Users\Kouichi\Documents\GitHub\ARDiscard\LLib\obj\Debug\net7.0-windows\LLib.pdb
+C:\Users\Kouichi\Documents\GitHub\ARDiscard\LLib\obj\Debug\net7.0-windows\ref\LLib.dll
