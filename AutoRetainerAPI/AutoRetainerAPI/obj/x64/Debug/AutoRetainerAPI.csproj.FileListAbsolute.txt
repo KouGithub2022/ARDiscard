@@ -1,0 +1,15 @@
+C:\Users\Kouichi\Documents\GitHub\ARDiscard\AutoRetainerAPI\AutoRetainerAPI\bin\x64\Debug\AutoRetainerAPI.deps.json
+C:\Users\Kouichi\Documents\GitHub\ARDiscard\AutoRetainerAPI\AutoRetainerAPI\bin\x64\Debug\AutoRetainerAPI.dll
+C:\Users\Kouichi\Documents\GitHub\ARDiscard\AutoRetainerAPI\AutoRetainerAPI\bin\x64\Debug\AutoRetainerAPI.pdb
+C:\Users\Kouichi\Documents\GitHub\ARDiscard\AutoRetainerAPI\AutoRetainerAPI\bin\x64\Debug\ECommons.dll
+C:\Users\Kouichi\Documents\GitHub\ARDiscard\AutoRetainerAPI\AutoRetainerAPI\bin\x64\Debug\ECommons.pdb
+C:\Users\Kouichi\Documents\GitHub\ARDiscard\AutoRetainerAPI\AutoRetainerAPI\bin\x64\Debug\ECommons.xml
+C:\Users\Kouichi\Documents\GitHub\ARDiscard\AutoRetainerAPI\AutoRetainerAPI\obj\x64\Debug\AutoRetainerAPI.csproj.AssemblyReference.cache
+C:\Users\Kouichi\Documents\GitHub\ARDiscard\AutoRetainerAPI\AutoRetainerAPI\obj\x64\Debug\AutoRetainerAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kouichi\Documents\GitHub\ARDiscard\AutoRetainerAPI\AutoRetainerAPI\obj\x64\Debug\AutoRetainerAPI.AssemblyInfoInputs.cache
+C:\Users\Kouichi\Documents\GitHub\ARDiscard\AutoRetainerAPI\AutoRetainerAPI\obj\x64\Debug\AutoRetainerAPI.AssemblyInfo.cs
+C:\Users\Kouichi\Documents\GitHub\ARDiscard\AutoRetainerAPI\AutoRetainerAPI\obj\x64\Debug\AutoRetainerAPI.csproj.CoreCompileInputs.cache
+C:\Users\Kouichi\Documents\GitHub\ARDiscard\AutoRetainerAPI\AutoRetainerAPI\obj\x64\Debug\AutoRetainerAPI.sourcelink.json
+C:\Users\Kouichi\Documents\GitHub\ARDiscard\AutoRetainerAPI\AutoRetainerAPI\obj\x64\Debug\AutoRetainerAPI.csproj.CopyComplete
+C:\Users\Kouichi\Documents\GitHub\ARDiscard\AutoRetainerAPI\AutoRetainerAPI\obj\x64\Debug\AutoRetainerAPI.dll
+C:\Users\Kouichi\Documents\GitHub\ARDiscard\AutoRetainerAPI\AutoRetainerAPI\obj\x64\Debug\AutoRetainerAPI.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HaXlBfK8qNNowNu8b38P2Effm6Su3T2DwhNBHbhkimAmw/EIUyfTJTV3eWjaQyZ0AdIFa+TZK6yrBaBJBlxa+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kouichi\\Documents\\GitHub\\ARDiscard\\AutoRetainerAPI\\AutoRetainerAPI\\AutoRetainerAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kouichi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Kouichi\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Kouichi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
